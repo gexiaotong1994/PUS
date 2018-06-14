@@ -1,1 +1,3 @@
-This is Frist GIT DEMO
+1This is Frist GIT 
+2第一次对readme.txt文件进行修改
+3第二次对readme.txt文件进行修改
